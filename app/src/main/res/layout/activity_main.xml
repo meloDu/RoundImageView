@@ -14,7 +14,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/beauty"
+        android:src="@mipmap/ic_launcher"
         app:type="circle"/>
     <com.rmtd.melo.roundimageview.RoundImageView
 
